@@ -8,4 +8,8 @@ def joke():
     print("This code is a joke!")
 
 def shout():
+<<<<<<< Updated upstream
     print("THIS IS A SHOUTING BITH< CAN'T YOU HEAR IT?")
+=======
+    print("HIIII CUUUNTS!!!")
+>>>>>>> Stashed changes
